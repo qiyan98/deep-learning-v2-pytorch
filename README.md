@@ -4,6 +4,14 @@ This repository contains material related to Udacity's [Deep Learning Nanodegree
 
 There are also notebooks used as projects for the Nanodegree program. In the program itself, the projects are reviewed by real people (Udacity reviewers), but the starting code is available here, as well.
 
+# Personal notes
+
+13.06 Projects - Dog Breed Classifier **working**
+
+13.06 Projects - TV Script Generation **working**
+
+13.06 Projects - Face Generation **working**
+
 ## Table Of Contents
 
 ### Tutorials
