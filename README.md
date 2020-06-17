@@ -1,16 +1,16 @@
+# Work log
+
+16.06.2020 [Project - Dog Breed Classifier](https://github.com/qiyan98/deep-learning-v2-pytorch/blob/master/project-dog-classification/dog_app.ipynb) **done**
+
+17.06.2020 [Project - TV Script Generation](https://github.com/qiyan98/deep-learning-v2-pytorch/blob/master/project-tv-script-generation/dlnd_tv_script_generation.ipynb) **done**
+
+13.06 [Project - Face Generation](https://github.com/qiyan98/deep-learning-v2-pytorch/tree/master/project-face-generation) **working**
+
 # Deep Learning (PyTorch)
 
 This repository contains material related to Udacity's [Deep Learning Nanodegree program](https://www.udacity.com/course/deep-learning-nanodegree--nd101). It consists of a bunch of tutorial notebooks for various deep learning topics. In most cases, the notebooks lead you through implementing models such as convolutional networks, recurrent networks, and GANs. There are other topics covered such as weight initialization and batch normalization.
 
 There are also notebooks used as projects for the Nanodegree program. In the program itself, the projects are reviewed by real people (Udacity reviewers), but the starting code is available here, as well.
-
-# Personal notes
-
-16.06.2020 [Project - Dog Breed Classifier](https://github.com/qiyan98/deep-learning-v2-pytorch/blob/master/project-dog-classification/dog_app.ipynb) **done**
-
-13.06 [Project - TV Script Generation](https://github.com/qiyan98/deep-learning-v2-pytorch/blob/master/project-tv-script-generation/dlnd_tv_script_generation.ipynb) **working**
-
-13.06 [Project - Face Generation](https://github.com/qiyan98/deep-learning-v2-pytorch/tree/master/project-face-generation) **working**
 
 ## Table Of Contents
 
