@@ -4,7 +4,7 @@
 
 17.06.2020 [Project - Face Generation](https://github.com/qiyan98/deep-learning-v2-pytorch/blob/master/project-face-generation/dlnd_face_generation.ipynb) **done**
 
-13.06 [Project - TV Script Generation](https://github.com/qiyan98/deep-learning-v2-pytorch/blob/master/project-tv-script-generation/dlnd_tv_script_generation.ipynb) **working**
+07.07.2020 [Project - TV Script Generation](https://github.com/qiyan98/deep-learning-v2-pytorch/blob/master/project-tv-script-generation/dlnd_tv_script_generation.ipynb) **done**
 
 
 
